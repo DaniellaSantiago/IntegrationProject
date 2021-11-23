@@ -1,0 +1,33 @@
+{
+  "name": "integrationproject",
+  "version": "1.0.0",
+  "description": "Salveeee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniellaSantiago/IntegrationProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniellaSantiago/IntegrationProject/issues"
+  },
+  "homepage": "https://github.com/DaniellaSantiago/IntegrationProject#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/mongoose-paginate": "^5.0.10",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "mongoose-paginate": "^5.0.3",
+    "ts-node": "^10.4.0",
+    "xml-js": "^1.6.11"
+  }
+}
